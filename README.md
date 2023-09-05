@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Igor Pio
 - 👀 I’m interested in Python OOP and Data Science
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me igorpio2002@gmail.com
 
 <!---
