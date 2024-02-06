@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Igor Pio
-- 👀 I’m interested in Python OOP and Data Science
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Pythona and Data Science
+- 🌱 I’m currently learning JavaScript to become a full-stack developer
 - 📫 How to reach me pioigor@usp.br
 
 <!---
